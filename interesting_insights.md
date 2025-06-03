@@ -62,3 +62,12 @@ Else if delivery times are consistent across modes: Focus on other factors like 
 **Description & Key Takeaway:**
 *  *Certain cities have significantly higher order counts: Focus on enhancing inventory, logistics, and customer engagement in these areas.*
 ---
+
+## 8. Profit and Loss
+
+![Screenshot 2024-11-25 195339](https://github.com/user-attachments/assets/e6f7dcff-c43d-47ae-8c3c-610cb05669ef)
+
+**Description & Key Takeaway:**
+*  *High-profit products are essential for business growth, and you should consider investing more in promoting or expanding the sales of these products. These could also be the products you want to feature in marketing campaigns or priority stock restocking.\
+Products with consistently negative profits may need to be reevaluated. Are they worth continuing to sell, or should they be discontinued? If discontinuation isn’t feasible, consider ways to optimize their cost structure or adjust their pricing.*
+---
